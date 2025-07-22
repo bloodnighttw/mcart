@@ -1,0 +1,4 @@
+{
+  "extends": "@mcart/typescript-config/react.app.json",
+  "include": ["vite.config.ts"]
+}
