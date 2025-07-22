@@ -1,8 +1,8 @@
 {
-  "projectName": "my-app",
+  "projectName": "web",
   "mode": "code-router",
-  "typescript": false,
-  "tailwind": true,
+  "typescript": true,
+  "tailwind": false,
   "packageManager": "pnpm",
   "git": true,
   "version": 1,
