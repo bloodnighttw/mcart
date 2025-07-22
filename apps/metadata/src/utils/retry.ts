@@ -14,5 +14,5 @@ export default async function retry<U>(promise: ()=>Promise<U>, retries = 3, del
         }
     }
 
-    throw new Error("This should never be reached");   
+    throw new Error("This should never be reached");
 }
