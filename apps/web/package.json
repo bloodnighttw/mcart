@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "@mcart/web",
   "private": true,
   "type": "module",
   "scripts": {

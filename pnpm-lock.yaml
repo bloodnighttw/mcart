@@ -24,6 +24,8 @@ importers:
         specifier: ^3.0.5
         version: 3.2.4(@types/node@22.15.3)(jiti@2.4.2)(jsdom@26.1.0)(lightningcss@1.30.1)
 
+  apps/runner: {}
+
   apps/web:
     dependencies:
       '@tailwindcss/vite':
@@ -111,10 +113,10 @@ importers:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
     devDependencies:
-      '@repo/eslint-config':
+      '@mcart/eslint-config':
         specifier: workspace:*
         version: link:../eslint-config
-      '@repo/typescript-config':
+      '@mcart/typescript-config':
         specifier: workspace:*
         version: link:../typescript-config
       '@types/node':
