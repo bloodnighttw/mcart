@@ -14,6 +14,7 @@
     "@mcart/ui": "workspace:*",
     "@tailwindcss/vite": "^4.1.11",
     "@tanstack/react-router": "^1.129.7",
+    "@tanstack/react-router-devtools": "^1.129.7",
     "@tanstack/virtual-file-routes": "^1.129.7",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
